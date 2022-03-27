@@ -1,4 +1,4 @@
-__author__ = "XPTGR#0636 | discord.gg/H6er6xEcn5)"
+__author__ = "XPTGR#0636 | dsc.gg/xptgr)"
 
 from typing import Generator
 from os import system, path
